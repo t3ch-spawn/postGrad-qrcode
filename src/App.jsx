@@ -21,7 +21,7 @@ function App() {
         Download Programme Document
       </h1>
       <a
-        href="/Prof Baiyeroju Valedictory programme.pdf"
+        href="/Post grad reunion program 2025.pdf"
         target="_blank"
         className="bg-black rounded-[8px] text-[16px] px-[30px] py-[8px] text-white download-btn"
         aria-label="download document"
